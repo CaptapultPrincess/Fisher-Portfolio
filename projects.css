@@ -181,3 +181,13 @@ h2{
     font-size:25px;
 }
 
+.vid-div{
+    text-align:center;
+    /*background-color: rgb(222, 192, 237);*/
+
+}
+.elevator-vid{
+    width:500px;
+    border-radius:50px;
+}
+
