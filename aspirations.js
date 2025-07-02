@@ -42,31 +42,31 @@ starOne.addEventListener('mouseover', function() {
 
 starTwo.addEventListener('mouseover', function() {
     starBoxHead.innerHTML = "Heaven on Earth"
-    starBoxp.innerHTML =  "If you known me long enough, you've probably heard me say I'm a follower of Jesus Christ. For a while, I tried to find games for christians. Sadly, majority of the few christian games are violent and fight-based. Even though this works well with teens who enjoy fighting games, there are hardly any games for people who enjoy a more story-based games, or games for little kids. I don't want to share the gospel in a way that is forceful, but in a way that tells the true emotions, scenarios, and struggles that come with being a follower of Christ. "
+    starBoxp.innerHTML =  "If you've known me long enough, you've probably heard my faith. For a while, I tried to find games for Christians. Sadly, majority of the few Christian games are violent and fighting-based. Even though this works well with teens who enjoy fighting games, there are hardly any games for people who enjoy a more story-based game, or games for kids. I don't want to share the gospel in a way that is forceful, but in a way that tells the true emotions, scenarios, and struggles that come with being a follower of Christ."
     starBox.style.opacity = "1";
 });
 
 starThree.addEventListener('mouseover', function() {
     starBoxHead.innerHTML = "Family is Forever"
-    starBoxp.innerHTML =  "Before I got into coding, I wanted to be a fashion designer. I had to do a career's project and research my own career, fashion designing. At the end of the project, I left fashion designing for one main reason, movement. Being a fashion designer required me to move around a lot. It collided with my dream to settle down and build a home with a family. I didn't want my future kids to have to move continiously, or worse, hardly see me with all my business trips. My family is as important to me as work."
+    starBoxp.innerHTML =  "Before I got into coding, I wanted to be a fashion designer. I had to do a career's project and research my own career (Fashion designing). At the end of the project, I left fashion designing for one main reason, movement. Being a fashion designer required me to move around a lot. It collided with my dream to settle down and build a home with a family. I didn't want my future kids to have to move continiously, or worse, hardly see me with all my business trips. My family is as important to me as work."
     starBox.style.opacity = "1";
 });
 
 starFour.addEventListener('mouseover', function() {
     starBoxHead.innerHTML = "A Million Dreams"
-    starBoxp.innerHTML =  "Looking at a world filled with careers, its  hard to choose just one. At some point in time, I wanted to be a movie director, artist, chess champion, comic artist, laywer, and fashion designer. None of these dreams made it very far, but they are still a part of me. Every once in a while, you can see one my old dreams slip out, and other times I use them for my current dream: Indie Video Game Developer. These dreams arn't complete, but they arn't just a raisin in the sun either. ."
+    starBoxp.innerHTML =  "Looking at a world filled with careers, its  hard to choose just one. At some point in time, I wanted to be a movie director, artist, chess champion, comic artist, laywer, and fashion designer. None of these dreams made it very far, but they are still a part of me. Every once in a while, you can see one my old dreams slip out, and other times I use them for my current dream: Independent Video Game Developer. These dreams aren't complete, but they aren't just a ''raisin in the sun'' either."
     starBox.style.opacity = "1";
 });
 
 starFive.addEventListener('mouseover', function() {
     starBoxHead.innerHTML = "The Dream Team"
-    starBoxp.innerHTML =  "My dream is to be an indie game developer, but even an independent developer needs help. That is why I want to find the dream team, people who are passionate like me, but have different skills. I would need programmers, artist, musicians to come together with a common goal, and work to make great video games"
+    starBoxp.innerHTML =  "My dream is to be an independent game developer, but even an indie developer needs help. That is why I want to find the dream team, people who are passionate like me, but have different skills. I would need programmers, artist, musicians to come together with a common goal, and work to make great video games."
     starBox.style.opacity = "1";
 });
 
 starSix.addEventListener('mouseover', function() {
     starBoxHead.innerHTML = "A Fictional Fantasy"
-    starBoxp.innerHTML =  "I want to be an Indie Game Developer. I want to make video games, that a lot of people can enjoy. I don't just want it to be popular, I want my games to have an impact, to have stories, lore, twist, happiness, sadness, and more. I want my video games to be an expierance."
+    starBoxp.innerHTML =  "If you don't know by now, I want to be an Independent Game Developer: I want to make video games that a lot of people can enjoy. I don't just want it to be popular; I want my games to have an impact: to have stories, lore, twist, emotions, and sequels. In other words, I want my video games to be an expierance."
     starBox.style.opacity = "1";
 });
 

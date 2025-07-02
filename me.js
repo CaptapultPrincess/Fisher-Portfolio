@@ -185,7 +185,7 @@ intOne.addEventListener('click', function() {
     imgIntOne.style.display= "inline-block";
     // intOne.style.width = "33%";
     header.innerHTML = "Princess";
-    text.innerHTML = "I prefer princess over queen. From a young age, Iv'e always been obsessed with princesses. I like to see myself as one, not as a  spoiled selfless person, but as a compassionate and confident young lady.";
+    text.innerHTML = "They don’t call me ThePrincessJ for no reason. Why be normal when you can be a princess? I not only embrace the title, but the responsibility to lead confidently, responsibly, and compassionately. Don’t be surprised to find a princess theme somewhere in my work.";
 
 });
 
@@ -195,7 +195,7 @@ intTwo.addEventListener('click', function() {
     imgIntTwo.style.display= "inline-block";
     // intTwo.style.width = "33%";
     header.innerHTML = "Debating";
-    text.innerHTML = "I love public speaking more than the average person, which lead to the love of debating. I'm a calm, but calculated person when it comes to convincing another person. I don't like to engage in heated debates, but I love to dive into intellectual and philosophical debates.";
+    text.innerHTML = "Did I mention I love public speaking more than the average person? There is a reason my Middle School teacher suggested I become a lawyer. I love engaging debates. I'm a calm, calculated person when it comes to convincing others. I can’t say that I prefer to engage in heated arguments (because I don’t), but I love to dive into intellectual and philosophical conversations that deepen human understanding.";
 });
 
 intThree.addEventListener('click', function() {
@@ -203,8 +203,8 @@ intThree.addEventListener('click', function() {
     intThree.style.filter = "saturate(10)"
     imgIntThree.style.display= "inline-block";
     // intThree.style.width = "33%";
-    header.innerHTML = "Favorite Foods";
-    text.innerHTML = "I'll enjoy eating anything as long as it's wrapped in a burrito, and chilli is a great meal to eat any day. When it comes to desserts, icecream will always be on top, specifically Cookies'n Cream. My food preferences has no similarities, but I think it just shows my creativity";
+    header.innerHTML = "Fav Foods";
+    text.innerHTML = "Wanna collab project ideas over lunch? I'll enjoy eating (almost) anything as long as it's wrapped in a burrito. And every princess loves chili as a great meal any day. When it comes to desserts; ice-cream will always be on top, specifically Cookies'n Cream. My food preferences have little similarities, but I think it just shows my creativity.";
 });
 
 intFour.addEventListener('click', function() {
@@ -213,14 +213,14 @@ intFour.addEventListener('click', function() {
     //intFour.style.width = "33%";
     intFour.style.filter = "saturate(10)"
     header.innerHTML = "Activities";
-    text.innerHTML = "I'm not very picky when it comes to having fun, but nothing excites me more than swimming and rock climbing. People don't usually imagine a computer person to enjoy moving around so much, but I enjoy being active any time and all the time.";
+    text.innerHTML = "You’d think you’d find me behind a computer all the time. My family’s motto is “work hard, play hard”. I love everything from rock climbing, swimming, water slides, mountain coasters, ziplining, ropes courses, laser tag, putt shack, theme parks, go-karting, and of course, butterfly palaces. I'm not very picky when it comes to having fun, I enjoy being active any time and all the time.";
 });
 
 
 /*When clicked, show that talent*/
 meOne.addEventListener('click', function() {
     meHeader.innerHTML = "Programmer";
-    meP.innerHTML = "From an early age, I have loved to program. I used to aspire to be a fashion designer, but would always get distracted with coding. When I reliazed my true calling, it didn't take long for me to get good at what I love. I will use my talents to be a video game developer!";
+    meP.innerHTML = "When I was frustrated in my career path of fashion, I would often revert to coding to take my mind off the pressure. It was only a matter of time before I discovered my true love for code since I was so good at it.  It wasn’t long before someone else noticed, I won the gold medal at Luddy School of Informatics Computing and Engineering competition, along with a scholarship there. Months before that, I had my game, Cake Bake, featured with one hundred thousand people trying my game.";
     clearImages();
     pickRandom(meProgList);
 
@@ -228,22 +228,22 @@ meOne.addEventListener('click', function() {
 
 meTwo.addEventListener('click', function() {
     meHeader.innerHTML = "Speaker";
-    meP.innerHTML = "I never really developed the fear of public speaking. Most of the time, I'm nervous after the actual presentation. This is why I have a deep love for presenting and public speaking. I have spoken at places like Poetry Out Loud, NAACP (where the mayor was), and a SIDA Fashion Show. Hopefuly one day I will have the chance to speak in front of 1000 people, but until then I will keep up the good work.";
+    meP.innerHTML = "I never got the memo to be afraid of public speaking. Most of the time, I'm nervous after the actual presentation. This has helped me develop a deep love for presenting and public speaking. I have spoken at places like Poetry Out Loud, NAACP (in the presence of the Mayor), a lead role in the Golden Box play, and a SIMA Fashion Show. Hopefully one day I will have the chance to speak in front of thousands of people, but until then, I’ll keep speaking where I am.";
     clearImages();
     pickRandom(meSpeakList);
 });
 
 meThree.addEventListener('click', function() {
     meHeader.innerHTML = "Artist";
-    meP.innerHTML = "I have never been really good at art, but it doesn't mean I don't love it. I love drawing for fun on my own time, and I believe this is what my passion for fashion designing really came from. Despite my skill level, I have had colorful art compliment many of my projects";
+    meP.innerHTML = "When I was younger, I wanted to pursue a career in fashion and art. However, a wise teacher (Mr. Purvis), suggested I might have a successful career elsewhere (he suggested a lawyer). I have since found in my talents of game development that fashion and art compliment it well. I love drawing for fun on my own. Despite my skill level, I have had colorful art compliment most of my projects. You can find my art throughout this website.";
     clearImages();
     pickRandom(meArtList);
 });
 
 
 meFour.addEventListener('click', function() {
-    meHeader.innerHTML = "Nerd";
-    meP.innerHTML = "I don't really consider myself to be a geninus, but my 4.01 GPA speaks for me. This is most likely the result of my weird fascination with learning, sometimes when I'm off of school for to long, I start taking detailed notes on random things. Iv'e hardly ever had a teacher who didn't like me, and my perseverance in eduation has led to success";
+    meHeader.innerHTML = "Nerdy Birdie";
+    meP.innerHTML = "I don't really consider myself to be a genius, but my 4.01 GPA speaks for me, and my perseverance has led to success. It doesn’t hurt that I’ve hardly had a teacher who didn't like me. I graduated, (Dean’s list, Phi Theta Kappa) with an Associate Degree in Cloud Computing two weeks before my high school graduation.";
     clearImages();
     pickRandom(meSmartList);
 });
@@ -253,7 +253,7 @@ meFour.addEventListener('click', function() {
 
 meFive.addEventListener('click', function() {
     meHeader.innerHTML = "Positive";
-    meP.innerHTML = "Many times I i'm known for lighting the room up. If you get to know me, I'm very friendly, and it is very hard to see me with a frown on my face. I draw my fruitful supply from the Lord, and love to share it with others.";
+    meP.innerHTML = "Many times, I’m known for lighting the room. For those who get to know me, I'm very friendly, and it is very hard to find me with a frown on my face. I draw my fruitful supply from my relationship with the Lord, and it rubs off on others. My positive personality has won me two nominations for homecoming court, and one crown. I love a good team, and I work hard to make my teams shine.";
     clearImages();
     pickRandom(meJoyList);
 });
